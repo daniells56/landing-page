@@ -1,0 +1,36 @@
+.menu-list {
+    list-style: none;
+    color: white;
+    font-family: 'Graphik', Medium;
+    font-size: 20px;
+    text-align: center;
+    top: 20px;
+}
+
+.menu-list li {
+    display: inline-block;
+    margin-left: 31px;
+}
+
+
+.login-button {
+    position: absolute;
+    right: 100px;
+    top: 65px;
+    width: 139px;
+    height: 52px;
+    border-radius: 0px;
+    background-color: #181818;
+    border-width: 1px;
+    border-color: white;
+    transition: all 0.5s;
+    border-style: solid;
+}
+
+
+
+.login-button span {
+    color: white;
+    font-family: 'Graphik', Medium;
+    font-size: 17px;
+}

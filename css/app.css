@@ -2,7 +2,11 @@
     margin: 0px;
 }
 
-body {
-    background-color: #181818;
+html {
+    display: flexbox;
 }
 
+body {
+    background-color: #181818;
+    text-align: center;
+}
