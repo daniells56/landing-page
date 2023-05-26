@@ -1,10 +1,16 @@
+.menu {
+    position: relative;
+    bottom: 35px;
+}
+
 .menu-list {
+    position: relative;
     list-style: none;
     color: white;
     font-family: 'Graphik', Medium;
     font-size: 20px;
     text-align: center;
-    top: 20px;
+    top: 85px;
 }
 
 .menu-list li {
@@ -33,4 +39,12 @@
     color: white;
     font-family: 'Graphik', Medium;
     font-size: 17px;
+}
+
+
+.logo-dark {
+
+    position: absolute;
+    left: 100px;
+    top: 50px;
 }
