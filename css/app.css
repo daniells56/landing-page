@@ -10,11 +10,84 @@ body {
     background-color: #181818;
     text-align: center;
     align-items: center;
+    overflow-x: hidden;
+}
+
+span {
+    font-family: 'Graphik', Medium;
+    font-size: 20px;
+    color: white;
+
 }
 
 .bg-1 {
     background-color: #0E0E0E;
     width: 100%;
-    height: 800px;
+    height: 100%;
 }
 
+.content {
+    position: relative;
+    top: 135px;
+}
+
+.title {
+    font-family: 'Graphik', Medium;
+    font-size: 80px;
+    color: white;
+}
+
+p {
+    font-family: 'Graphik', Medium;
+    font-size: 20px;
+    color: white;
+    top: 30px;
+}
+
+.text-home {
+    position: relative;
+    top: 30px;
+}
+
+.button {
+    border-radius: 0px;
+    border-width: 1px;
+    border-color: white;
+    transition: all 0.5s;
+    border-style: solid;
+    margin-left: 31px;
+}
+
+.home-buttons {
+    position: relative;
+    top: 90px;
+}
+
+
+.try {
+    border: none;
+    width: 178px;
+    height: 65px;
+    background-color: #4452FE;
+}
+
+.more {
+    width: 178px;
+    height: 65px;
+    background-color: black;
+}
+
+
+
+.images-content {
+    position: relative;
+    top: 150px;
+}
+
+
+.gradient {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #0E0E0E 66.15%);
+    width: 1579px;
+    height: 551px;
+    z-index: 222222;
+}
