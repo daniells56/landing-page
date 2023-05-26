@@ -242,3 +242,182 @@ h1 {
     position: relative;
     bottom: 120px;
 }
+
+.buttona {
+    display: block;
+    width: 139px;
+    height: 52px;
+    border-radius: 0px;
+    background-color: #181818;
+    border-width: 1px;
+    border-color: white;
+    transition: all 0.5s;
+    border-style: solid;
+
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    color: white;
+    border-width: 1px;
+
+}
+
+
+.patnerimg {
+    margin-left: 74px;
+}
+
+
+.testimonial {
+    position: relative;
+    top: 40px;
+    min-width: 430px;
+    min-height: 328px;
+
+    max-width: 430px;
+    max-height: 328px;
+
+    background: #181818;
+    border: 1px solid #DEDEDE;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.testimonial span {
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+}
+
+.title-testimonial {
+    display: inline-block;
+}
+
+.testimonial-p {
+    position: relative;
+    top: 30px;
+}
+
+
+.container-9 {
+    margin-top: 160px;
+    width: 1219px;
+    height: 370px;
+    background: #343434;
+    /* shadow */
+
+    box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+    border-radius: 33px;
+
+    /* Inside auto layout */
+    overflow: hidden;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.container-9 img {
+    position: relative;
+    left: 370px;
+    bottom: 20px;
+}
+
+.title-fonts {
+    position: relative;
+    right: 290px;
+    top: 20px;
+}
+
+
+.try-btn24 {
+    position: relative;
+    top: 240px;
+    right: 400px;
+}
+
+.spanc {
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    position: relative;
+    top: 40px;
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 54px;
+
+    letter-spacing: 0.2px;
+
+
+    color: #FFFFFF;    text-decoration: none;
+}
+
+
+.fingertipe-list{
+    display: inline-block;
+    position: relative;
+    right: 140px;
+}
+
+
+.one {
+    left: 1px;
+}
+
+
+.two {
+    left: 200px;
+}
+
+
+.three {
+    right: 100px;
+}
+
+.maps {
+    position: relative;
+    left: 200px;
+    bottom: 10px;
+}
+
+.phone {
+    position: relative;
+    left: 695px;
+    top: 15px;
+}
+
+.number {
+    position: relative;
+    bottom: 14px;
+    left: 98px;
+}
+
+
+.andress {
+    position: relative;
+    left: 152px;
+    bottom: 15px;
+}
+
+.andres {
+    position: relative;
+    left: 154px;
+}
+
+.social img {
+    margin-left: 20px;
+    position: relative;
+    left: 250px;
+    top: 40px;
+}
+
