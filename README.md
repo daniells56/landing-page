@@ -1,4 +1,4 @@
-# Nome do projeto
+# Landing Page
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -10,5 +10,3 @@
 
 > This is a landing page I made just to train my skills with html and css after a few months without using them.
 
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
