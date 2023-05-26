@@ -20,7 +20,6 @@ span {
     font-family: 'Graphik', Medium;
     font-size: 20px;
     color: white;
-
 }
 
 .bg-1 {
@@ -46,6 +45,13 @@ p {
     font-size: 20px;
     color: white;
     top: 30px;
+}
+
+h1 {
+    font-family: 'Graphik', Medium;
+    font-size: 52px;
+    font-weight: 400;
+    color: white;
 }
 
 .text-home {
@@ -115,3 +121,124 @@ p {
     top: 80px;
 }
 
+
+
+.icons {
+    position: relative;
+    left: 550px;
+    bottom: 700px;
+}
+
+.title-long-p2 {
+    position: relative;
+    font-size: 20px;
+    font-weight: 500;
+    bottom: 30px;
+    margin-left: 20px;
+}
+
+
+
+.text-long-p2 {
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.bg-3 {
+    position: relative;
+    bottom: 300px;
+}
+
+.we-focus {
+    position: relative;
+    top: 40px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.container {
+    text-align: center;
+    position: relative;
+    top: 90px;
+    display: inline-block;
+    width: 476px;
+    height: 624.52px;
+    background: #FFFFFF;
+    border: 1px solid #D3D3D3;
+    box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    margin-left: 33px;
+    align-items: center;
+
+    max-width: 476px;
+    max-height: 624.52px;
+
+}
+
+.work-container {
+    margin-top: 40px;
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.1px;
+    color: #000000;
+    margin-bottom: 40px;
+}
+
+.span-container {
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+    text-align: center;
+    letter-spacing: 0.2px;
+
+    /* second text */
+
+    color: #5C5C5C;
+}
+
+.button-1 {
+    position: relative;
+    width: 157px;
+    height: 52px;
+    background: #4452FE;
+    box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    color: white;
+    border-style: solid;
+    border: none;
+    top: 57px;
+}
+
+.boards-btn {
+    position: relative;
+    top: 60px;
+}
+
+.untitled {
+    position: relative;
+    top: 95px;
+}
+
+
+.contai {
+    display: flexbox;
+    position: relative;
+    top: 200px;
+}
+
+.move {
+    position: relative;
+    bottom: 120px;
+}
