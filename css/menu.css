@@ -1,16 +1,26 @@
+.flex-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+
 .menu {
-    position: relative;
-    bottom: 35px;
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 60px;
 }
 
 .menu-list {
-    position: relative;
     list-style: none;
     color: white;
     font-family: 'Graphik', Medium;
     font-size: 20px;
     text-align: center;
-    top: 85px;
+    white-space: nowrap;
+
 }
 
 .menu-list li {
@@ -20,9 +30,7 @@
 
 
 .login-button {
-    position: absolute;
-    right: 100px;
-    top: 65px;
+    position: relative;
     width: 139px;
     height: 52px;
     border-radius: 0px;
@@ -31,6 +39,7 @@
     border-color: white;
     transition: all 0.5s;
     border-style: solid;
+    left: 90px;
 }
 
 
@@ -44,7 +53,4 @@
 
 .logo-dark {
 
-    position: absolute;
-    left: 100px;
-    top: 50px;
 }

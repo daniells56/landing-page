@@ -9,4 +9,12 @@ html {
 body {
     background-color: #181818;
     text-align: center;
+    align-items: center;
 }
+
+.bg-1 {
+    background-color: #0E0E0E;
+    width: 100%;
+    height: 800px;
+}
+
