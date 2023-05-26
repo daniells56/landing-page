@@ -1,9 +1,11 @@
 * {
     margin: 0px;
+
 }
 
 html {
     display: flexbox;
+
 }
 
 body {
@@ -11,6 +13,7 @@ body {
     text-align: center;
     align-items: center;
     overflow-x: hidden;
+    min-height: 100vh;
 }
 
 span {
@@ -24,6 +27,7 @@ span {
     background-color: #0E0E0E;
     width: 100%;
     height: 100%;
+    max-height: 1300px;
 }
 
 .content {
@@ -80,14 +84,34 @@ p {
 
 
 .images-content {
+    white-space: nowrap;
     position: relative;
-    top: 150px;
+    bottom: 400px;
 }
 
 
 .gradient {
     background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #0E0E0E 66.15%);
-    width: 1579px;
+    width: 100%;
     height: 551px;
     z-index: 222222;
+    position: relative;
+    top: 440px;
 }
+
+.bg2 {
+    position: relative;
+    bottom: 100px;
+}
+
+
+.features {
+    font-weight: 400;
+    font-size: 52px;
+}
+
+.chat {
+    position: relative;
+    top: 80px;
+}
+
